@@ -14,7 +14,13 @@ UPDATE_00:
 
 
 UPDATE_01:
-
+   - Backpack model aquired from LearnOpenGL.com, Artist: Berk Gedik
+   - New implementions:
+      - Added grid to scene for better orientation while moving around.
+      - Changes to the light GUI. Changed from two windows down to one and made selection of lights easier.
+      - Changes to the way shaders are loaded and applied to models, demostrated with two models being shaded by
+        different shaders (one point and the other directional lighting)
+      - Ability to load in .obj file models with the assimp library. More work still needed as it doesn't support all formats.
 
 
 ![AE_02](https://user-images.githubusercontent.com/54217603/104759489-fcb81780-572d-11eb-9f47-59fd1d380b1e.gif)
