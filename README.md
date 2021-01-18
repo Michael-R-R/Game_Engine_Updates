@@ -37,5 +37,10 @@ UPDATE_02:
 
 
 UPDATE_03:
+   - Added in the functionality to update vertex and fragment shader files during run time within the engine.
+   - Added in the functionality to load in models from the GUI.
+      - Ability to assign different shaders to different models and render correctly
+      - Ability to adjust model properties indivudally.
+   - Made the grid a default mesh and shader attached to it. User is not allowed to delete the grid or grid shader.
 
 ![AE_04](https://user-images.githubusercontent.com/54217603/104964444-6cd2d180-59aa-11eb-924a-672d6d4515de.gif)
