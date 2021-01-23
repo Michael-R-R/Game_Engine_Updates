@@ -18,7 +18,7 @@ UPDATE_01:
    - New implementions:
       - Added grid to scene for better orientation while moving around.
       - Changes to the light GUI. Changed from two windows down to one and made selection of lights easier. 
-        but bugs remain to iron out and make it more smooth experience of selection.
+        But, bugs remain to iron out and make it more smooth experience of selection.
       - Changes to the way shaders are loaded and applied to models, demostrated with two models being shaded by
         different shaders (one point and the other directional lighting)
       - Ability to load in .obj file models with the assimp library. More work still needed as it doesn't support all formats.
