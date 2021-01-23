@@ -51,3 +51,5 @@ UPDATE_04:
    - Started another semester of college, Spring 2021, so updates will roll out slower. I will only get to work on the project 
      a little bit during the week, but plan on dedicating some time to work on the engine on Saturdays and Sundays
      as long as time allots.
+   - TODO NEXT:
+      - Create a gui file explorer to more easily load in shaders and models.
