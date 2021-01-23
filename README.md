@@ -44,3 +44,10 @@ UPDATE_03:
    - Made the grid a default mesh and shader attached to it. User is not allowed to delete the grid or grid shader.
 
 ![AE_04](https://user-images.githubusercontent.com/54217603/104964444-6cd2d180-59aa-11eb-924a-672d6d4515de.gif)
+
+UPDATE_04:
+   - Documented all the current code.
+   - Fixed some syntax conventions.
+   - Started another semester of college, Spring 2021, so updates will roll out slower. I will only get to work on the project 
+     a little bit during the week, but plan on dedicating some time to work on the engine on Saturdays and Sundays
+     as long as time allots.
