@@ -1,6 +1,6 @@
 # Game_Engine_Updates
-Repo for updating and showcasing new features in my game engine. Source code remains private. 
-This project is mainly for education purposes. Any game engine names are just place holders.
+Repo for updating and showcasing new features in my graphics engine. Source code remains private. 
+This project is mainly for education purposes. Any graphics engine names are just place holders.
 
 
 UPDATE_00: 
